@@ -39,3 +39,6 @@ echo aaa > hello.txt (hello.txt파일에 aaa를 저장함)
 cat hello.txt (hello.txt에 있는 문자를 출력)
 git add hello.txt (깃 저장소 스테이징 영역에 저장)
 git commit -m A (깃 저장소에 저장)
+
+
+![image](https://github.com/finalmin0205/bigdatabusiness_jm/assets/144201052/970e1d15-17c3-4f38-8175-e17eee3de57c)
